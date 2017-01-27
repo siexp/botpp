@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/bot++/auth.json
+/bot++/auth.json
+/bot++/dirty_dupm.json
+/bot++/reply.json

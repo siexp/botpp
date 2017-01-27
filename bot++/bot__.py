@@ -1,6 +1,5 @@
 import argparse
 import requests
-import asyncio
 
 uid = None
 sid = None
