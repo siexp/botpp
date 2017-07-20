@@ -263,3 +263,4 @@ __pycache__/
 /bot++/auth.json
 /bot++/dirty_dupm.json
 /bot++/reply.json
+bot++/cache.json
